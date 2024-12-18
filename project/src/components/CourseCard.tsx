@@ -17,11 +17,10 @@ export default function CourseCard({ title, image,description, duration, feature
     { name: 'Shadakshari', image: 'https://raw.githubusercontent.com/realabrar1/ispacemysuru.com/refs/heads/main/src/images/Picture1.png' },
     { name: 'Basavaraja', image: 'https://raw.githubusercontent.com/realabrar1/ispacemysuru.com/refs/heads/main/src/images/Picture3.png' },
     { name: 'Manju', image: 'https://raw.githubusercontent.com/realabrar1/ispacemysuru.com/refs/heads/main/src/images/Picture4.png' },
-    { name: 'Alex', image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e' },
-    { name: 'David', image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d' },
-    { name: 'Sarah', image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330' },
-    { name: 'Emma', image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80' },
-    { name: 'Chris', image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e' }
+    { name: 'Shubhashree', image: 'https://raw.githubusercontent.com/realabrar1/ispacemysuru.com/refs/heads/main/src/images/Picture2.png' },
+    { name: 'Suhas', image: 'https://raw.githubusercontent.com/realabrar1/ispacemysuru.com/refs/heads/main/src/images/Picture7.png' },
+    { name: 'Girish', image: 'https://raw.githubusercontent.com/realabrar1/ispacemysuru.com/refs/heads/main/src/images/Picture8.png' },
+    { name: 'Ravi', image: 'https://raw.githubusercontent.com/realabrar1/ispacemysuru.com/refs/heads/main/src/images/Picture5.png' }
   ];
 
   const [startIndex, setStartIndex] = useState(0);
