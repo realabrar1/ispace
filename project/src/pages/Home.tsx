@@ -410,7 +410,7 @@ export default function Home() {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
         {/* Project 1 */}
         <div className="relative group overflow-hidden rounded-lg border-2 border-gray-100 shadow-md transition-all duration-300 hover:border-blue-200">
-          <img src="/src/images/project1.png" alt="Modern Residential Complex" className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110" />
+          <img src="https://raw.githubusercontent.com/realabrar1/ispace/refs/heads/main/project/src/images/project1.png" alt="Modern Residential Complex" className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110" />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/30 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
             <div className="text-center">
               <h3 className="text-white font-semibold px-4 transform translate-y-4 group-hover:translate-y-0 transition-transform duration-300">Modern Residential Complex</h3>
@@ -421,7 +421,7 @@ export default function Home() {
 
         {/* Project 2 */}
         <div className="relative group overflow-hidden rounded-lg border-2 border-gray-100 shadow-md transition-all duration-300 hover:border-blue-200">
-          <img src="/src/images/project2.png" alt="Commercial Plaza Design" className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110" />
+          <img src="https://raw.githubusercontent.com/realabrar1/ispace/refs/heads/main/project/src/images/project2.png" alt="Commercial Plaza Design" className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110" />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/30 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
             <div className="text-center">
               <h3 className="text-white font-semibold px-4 transform translate-y-4 group-hover:translate-y-0 transition-transform duration-300">Commercial Plaza Design</h3>
